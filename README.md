@@ -12,8 +12,8 @@ iv) missing summary or structured skills
 
 v) badly extracted text when converted manually
 
-
 This project solves those problems automatically using Python.
+
 
 What the System Does
 
