@@ -9,6 +9,7 @@ badly extracted text when converted manually
 This project solves those problems automatically using Python.
 
 What the System Does
+
 1️.Extract Resume Content
 The system first reads the resume file
 If it is PDF, it extracts text using pdfplumber
