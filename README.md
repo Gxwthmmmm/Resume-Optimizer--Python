@@ -1,11 +1,11 @@
 Resume Optimizer & Formatter
 
-This project is designed to take an existing resume (PDF or DOCX) and automatically transform it into a clean, ATS-friendly, single-page professional resume.Most resumes — especially student resumes — have problems like:
-inconsistent formatting
-random placement of sections
-long paragraphs instead of bullet points
-missing summary or structured skills
-badly extracted text when converted manually
+This project is designed to take an existing resume (PDF or DOCX) and automatically transform it into a clean, ATS-friendly, single-page professional resume. Most resumes — especially student resumes — have problems like:
+i) inconsistent formatting
+ii) random placement of sections
+iii) long paragraphs instead of bullet points
+iv) missing summary or structured skills
+v) badly extracted text when converted manually
 
 This project solves those problems automatically using Python.
 
