@@ -1,4 +1,5 @@
-Project Overview — Resume Optimizer & Formatter
+Resume Optimizer & Formatter
+
 This project is designed to take an existing resume (PDF or DOCX) and automatically transform it into a clean, ATS-friendly, single-page professional resume.Most resumes — especially student resumes — have problems like:
 inconsistent formatting
 random placement of sections
