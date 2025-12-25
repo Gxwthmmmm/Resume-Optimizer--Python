@@ -70,6 +70,7 @@ weasyprint → convert HTML → PDF
 
 
 
+
 This will be the final output
 
 optimized Markdown resume
