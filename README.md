@@ -55,6 +55,7 @@ ATS compatibility improvement tools
 
 Technologies Used
 
+
 Python → Coding
 
 pdfplumber → extract text from PDFs
@@ -66,7 +67,6 @@ regex → extract info (email, phone, headings)
 HTML + CSS → resume layout
 
 weasyprint → convert HTML → PDF
-
 
 
 
